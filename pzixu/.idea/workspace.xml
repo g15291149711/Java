@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a3ae3ab-64b6-4d99-9cc9-ebf2475b1ad7" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sort/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1444">
+              <caret line="181" column="30" selection-start-line="181" selection-start-column="30" selection-end-line="181" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#pritition2#0;class#Test#0" />
+                <element signature="docComment;method#pritition#0;class#Test#0" />
+                <element signature="method#pritition#0;class#Test#0" />
+                <element signature="method#guibingsort#0;class#Test#0" />
+                <element signature="method#mergeSort#0;class#Test#0" />
+                <element signature="method#merge#0;class#Test#0" />
+                <element signature="method#xuanzesort#0;class#Test#0" />
+                <element signature="method#erfenchazhao#0;class#Test#0" />
+                <element signature="method#print#0;class#Test#0" />
+                <element signature="method#bubblesort#0;class#Test#0" />
+                <element signature="method#zhijiecharukuaipaisort#0;class#Test#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sort/Test1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="109" column="57" selection-start-line="109" selection-start-column="57" selection-end-line="109" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#zhijiecharuSort#0;class#Test1#0" />
+                <element signature="method#mergeSort#0;class#Test1#0" />
+                <element signature="method#mergeSortInternal#0;class#Test1#0" />
+                <element signature="method#mergepar#0;class#Test1#0" />
+                <element signature="docComment;method#quickSortInternal#0;class#Test1#0" />
+                <element signature="method#quickSortInternal#0;class#Test1#0" />
+                <element signature="method#xuanzeSort#0;class#Test1#0" />
+                <element signature="method#partition3#0;class#Test1#0" />
+                <element signature="method#partition#0;class#Test1#0" />
+                <element signature="method#partition2#0;class#Test1#0" />
+                <element signature="method#print#0;class#Test1#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sort/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>zijizhidao</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>mergeSort</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Test1.java" />
+        <option value="$PROJECT_DIR$/src/sort/Test.java" />
+        <option value="$PROJECT_DIR$/src/sort/Test2.java" />
+        <option value="$PROJECT_DIR$/src/sort/Main.java" />
+        <option value="$PROJECT_DIR$/src/sort/Test1.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="947" />
+    <option name="width" value="980" />
+    <option name="height" value="1039" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../benchmark" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test1 (1)">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.Main" />
+      <module name="pzixu" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.Test" />
+      <module name="pzixu" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.Test1" />
+      <module name="pzixu" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test1" />
+      <module name="pzixu" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Test1" />
+      <item itemvalue="Application.Test1 (1)" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test1 (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a3ae3ab-64b6-4d99-9cc9-ebf2475b1ad7" name="Default" comment="" />
+      <created>1551955285269</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551955285269</updated>
+      <workItem from="1551955290025" duration="6410000" />
+      <workItem from="1551966805209" duration="2400000" />
+      <workItem from="1552180742408" duration="19344000" />
+      <workItem from="1552304684469" duration="8296000" />
+      <workItem from="1552370212750" duration="3644000" />
+      <workItem from="1552386059266" duration="2045000" />
+      <workItem from="1552473842414" duration="5591000" />
+      <workItem from="1552486295804" duration="599000" />
+      <workItem from="1552541982390" duration="10230000" />
+      <workItem from="1552637931352" duration="4173000" />
+      <workItem from="1552713366048" duration="5902000" />
+      <workItem from="1553069492779" duration="109000" />
+      <workItem from="1559118120594" duration="2738000" />
+      <workItem from="1562987546996" duration="728000" />
+      <workItem from="1563430095033" duration="3526000" />
+      <workItem from="1563700732204" duration="2263000" />
+      <workItem from="1564119966924" duration="15236000" />
+      <workItem from="1564216384554" duration="5145000" />
+      <workItem from="1564273539915" duration="6585000" />
+      <workItem from="1564317255464" duration="2711000" />
+      <workItem from="1564455043535" duration="3222000" />
+      <workItem from="1564715607227" duration="5077000" />
+      <workItem from="1564994518391" duration="3145000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="119119000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="758" y="0" width="784" height="831" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32857144" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32097003" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.9" weight="0.19586207" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info id="Structure" order="1" sideWeight="0.1" side_tool="true" weight="0.19087137" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994528" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32142857" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32857144" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.9" visible="true" weight="0.19586207" />
+      <window_info id="Structure" order="1" sideWeight="0.1" side_tool="true" weight="0.19087137" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994528" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sort/Test.java</url>
+          <line>193</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sort/Test.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sort/Test.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sort/Test.java</url>
+          <line>111</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/sort/Test.java</url>
+          <line>81</line>
+          <properties class="sort.Test" method="pritition">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/sort/Test.java</url>
+          <line>9</line>
+          <properties class="sort.Test" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/sort/Test.java</url>
+          <line>192</line>
+          <properties class="sort.Test" method="erfenchazhao">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/sort/Test.java</url>
+          <line>258</line>
+          <properties class="sort.Test" method="zhijiecharukuaipaisort">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="52" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/sort/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1444">
+          <caret line="181" column="30" selection-start-line="181" selection-start-column="30" selection-end-line="181" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#pritition2#0;class#Test#0" />
+            <element signature="docComment;method#pritition#0;class#Test#0" />
+            <element signature="method#pritition#0;class#Test#0" />
+            <element signature="method#guibingsort#0;class#Test#0" />
+            <element signature="method#mergeSort#0;class#Test#0" />
+            <element signature="method#merge#0;class#Test#0" />
+            <element signature="method#xuanzesort#0;class#Test#0" />
+            <element signature="method#erfenchazhao#0;class#Test#0" />
+            <element signature="method#print#0;class#Test#0" />
+            <element signature="method#bubblesort#0;class#Test#0" />
+            <element signature="method#zhijiecharukuaipaisort#0;class#Test#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="134" column="56" selection-start-line="134" selection-start-column="56" selection-end-line="134" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#zhijiecharuSort#0;class#Test1#0" />
+            <element signature="method#mergeSort#0;class#Test1#0" />
+            <element signature="method#mergeSortInternal#0;class#Test1#0" />
+            <element signature="method#mergepar#0;class#Test1#0" />
+            <element signature="docComment;method#quickSortInternal#0;class#Test1#0" />
+            <element signature="method#quickSortInternal#0;class#Test1#0" />
+            <element signature="method#xuanzeSort#0;class#Test1#0" />
+            <element signature="method#partition3#0;class#Test1#0" />
+            <element signature="method#partition#0;class#Test1#0" />
+            <element signature="method#partition2#0;class#Test1#0" />
+            <element signature="method#print#0;class#Test1#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1444">
+          <caret line="181" column="30" selection-start-line="181" selection-start-column="30" selection-end-line="181" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#pritition2#0;class#Test#0" />
+            <element signature="docComment;method#pritition#0;class#Test#0" />
+            <element signature="method#pritition#0;class#Test#0" />
+            <element signature="method#guibingsort#0;class#Test#0" />
+            <element signature="method#mergeSort#0;class#Test#0" />
+            <element signature="method#merge#0;class#Test#0" />
+            <element signature="method#xuanzesort#0;class#Test#0" />
+            <element signature="method#erfenchazhao#0;class#Test#0" />
+            <element signature="method#print#0;class#Test#0" />
+            <element signature="method#bubblesort#0;class#Test#0" />
+            <element signature="method#zhijiecharukuaipaisort#0;class#Test#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#zhijiecharuSort#0;class#Test1#0" />
+            <element signature="method#mergeSort#0;class#Test1#0" />
+            <element signature="method#mergeSortInternal#0;class#Test1#0" />
+            <element signature="method#mergepar#0;class#Test1#0" />
+            <element signature="docComment;method#quickSortInternal#0;class#Test1#0" />
+            <element signature="method#quickSortInternal#0;class#Test1#0" />
+            <element signature="method#xuanzeSort#0;class#Test1#0" />
+            <element signature="method#partition3#0;class#Test1#0" />
+            <element signature="method#partition#0;class#Test1#0" />
+            <element signature="method#partition2#0;class#Test1#0" />
+            <element signature="method#print#0;class#Test1#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4332">
+          <caret line="228" column="25" selection-start-line="228" selection-start-column="25" selection-end-line="228" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#pritition2#0;class#Test#0" />
+            <element signature="docComment;method#pritition#0;class#Test#0" />
+            <element signature="method#pritition#0;class#Test#0" />
+            <element signature="method#guibingsort#0;class#Test#0" />
+            <element signature="method#mergeSort#0;class#Test#0" />
+            <element signature="method#merge#0;class#Test#0" />
+            <element signature="method#xuanzesort#0;class#Test#0" />
+            <element signature="method#erfenchazhao#0;class#Test#0" />
+            <element signature="method#print#0;class#Test#0" />
+            <element signature="method#bubblesort#0;class#Test#0" />
+            <element signature="method#zhijiecharukuaipaisort#0;class#Test#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#zhijiecharuSort#0;class#Test1#0" />
+            <element signature="method#mergeSort#0;class#Test1#0" />
+            <element signature="method#mergeSortInternal#0;class#Test1#0" />
+            <element signature="method#mergepar#0;class#Test1#0" />
+            <element signature="docComment;method#quickSortInternal#0;class#Test1#0" />
+            <element signature="method#quickSortInternal#0;class#Test1#0" />
+            <element signature="method#xuanzeSort#0;class#Test1#0" />
+            <element signature="method#partition3#0;class#Test1#0" />
+            <element signature="method#partition#0;class#Test1#0" />
+            <element signature="method#partition2#0;class#Test1#0" />
+            <element signature="method#print#0;class#Test1#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="49" selection-start-line="49" selection-end-line="51" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#pritition2#0;class#Test#0" />
+            <element signature="docComment;method#pritition#0;class#Test#0" />
+            <element signature="method#pritition#0;class#Test#0" />
+            <element signature="method#guibingsort#0;class#Test#0" />
+            <element signature="method#mergeSort#0;class#Test#0" />
+            <element signature="method#merge#0;class#Test#0" />
+            <element signature="method#xuanzesort#0;class#Test#0" />
+            <element signature="method#erfenchazhao#0;class#Test#0" />
+            <element signature="method#print#0;class#Test#0" />
+            <element signature="method#bubblesort#0;class#Test#0" />
+            <element signature="method#zhijiecharukuaipaisort#0;class#Test#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#zhijiecharuSort#0;class#Test1#0" />
+            <element signature="method#mergeSort#0;class#Test1#0" />
+            <element signature="method#mergeSortInternal#0;class#Test1#0" />
+            <element signature="method#mergepar#0;class#Test1#0" />
+            <element signature="docComment;method#quickSortInternal#0;class#Test1#0" />
+            <element signature="method#quickSortInternal#0;class#Test1#0" />
+            <element signature="method#xuanzeSort#0;class#Test1#0" />
+            <element signature="method#partition3#0;class#Test1#0" />
+            <element signature="method#partition#0;class#Test1#0" />
+            <element signature="method#partition2#0;class#Test1#0" />
+            <element signature="method#print#0;class#Test1#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1843">
+          <caret line="102" column="5" selection-start-line="98" selection-start-column="4" selection-end-line="102" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#pritition2#0;class#Test#0" />
+            <element signature="docComment;method#pritition#0;class#Test#0" />
+            <element signature="method#pritition#0;class#Test#0" />
+            <element signature="method#guibingsort#0;class#Test#0" />
+            <element signature="method#mergeSort#0;class#Test#0" />
+            <element signature="method#merge#0;class#Test#0" />
+            <element signature="method#xuanzesort#0;class#Test#0" />
+            <element signature="method#erfenchazhao#0;class#Test#0" />
+            <element signature="method#print#0;class#Test#0" />
+            <element signature="method#bubblesort#0;class#Test#0" />
+            <element signature="method#zhijiecharukuaipaisort#0;class#Test#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1197">
+          <caret line="79" column="5" selection-start-line="48" selection-start-column="3" selection-end-line="79" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#zhijiecharuSort#0;class#Test1#0" />
+            <element signature="method#mergeSort#0;class#Test1#0" />
+            <element signature="method#mergeSortInternal#0;class#Test1#0" />
+            <element signature="method#mergepar#0;class#Test1#0" />
+            <element signature="docComment;method#quickSortInternal#0;class#Test1#0" />
+            <element signature="method#quickSortInternal#0;class#Test1#0" />
+            <element signature="method#xuanzeSort#0;class#Test1#0" />
+            <element signature="method#partition3#0;class#Test1#0" />
+            <element signature="method#partition#0;class#Test1#0" />
+            <element signature="method#partition2#0;class#Test1#0" />
+            <element signature="method#print#0;class#Test1#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#pritition2#0;class#Test#0" />
+            <element signature="docComment;method#pritition#0;class#Test#0" />
+            <element signature="method#pritition#0;class#Test#0" />
+            <element signature="method#guibingsort#0;class#Test#0" />
+            <element signature="method#mergeSort#0;class#Test#0" />
+            <element signature="method#merge#0;class#Test#0" />
+            <element signature="method#xuanzesort#0;class#Test#0" />
+            <element signature="method#erfenchazhao#0;class#Test#0" />
+            <element signature="method#print#0;class#Test#0" />
+            <element signature="method#bubblesort#0;class#Test#0" />
+            <element signature="method#zhijiecharukuaipaisort#0;class#Test#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="49" column="9" lean-forward="true" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#zhijiecharuSort#0;class#Test1#0" />
+            <element signature="method#mergeSort#0;class#Test1#0" />
+            <element signature="method#mergeSortInternal#0;class#Test1#0" />
+            <element signature="method#mergepar#0;class#Test1#0" />
+            <element signature="docComment;method#quickSortInternal#0;class#Test1#0" />
+            <element signature="method#quickSortInternal#0;class#Test1#0" />
+            <element signature="method#xuanzeSort#0;class#Test1#0" />
+            <element signature="method#partition3#0;class#Test1#0" />
+            <element signature="method#partition#0;class#Test1#0" />
+            <element signature="method#partition2#0;class#Test1#0" />
+            <element signature="method#print#0;class#Test1#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="240" column="5" selection-start-line="240" selection-start-column="5" selection-end-line="240" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#pritition2#0;class#Test#0" />
+            <element signature="docComment;method#pritition#0;class#Test#0" />
+            <element signature="method#pritition#0;class#Test#0" />
+            <element signature="method#guibingsort#0;class#Test#0" />
+            <element signature="method#mergeSort#0;class#Test#0" />
+            <element signature="method#merge#0;class#Test#0" />
+            <element signature="method#xuanzesort#0;class#Test#0" />
+            <element signature="method#erfenchazhao#0;class#Test#0" />
+            <element signature="method#print#0;class#Test#0" />
+            <element signature="method#bubblesort#0;class#Test#0" />
+            <element signature="method#zhijiecharukuaipaisort#0;class#Test#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#zhijiecharuSort#0;class#Test1#0" />
+            <element signature="method#mergeSort#0;class#Test1#0" />
+            <element signature="method#mergeSortInternal#0;class#Test1#0" />
+            <element signature="method#mergepar#0;class#Test1#0" />
+            <element signature="docComment;method#quickSortInternal#0;class#Test1#0" />
+            <element signature="method#quickSortInternal#0;class#Test1#0" />
+            <element signature="method#xuanzeSort#0;class#Test1#0" />
+            <element signature="method#partition3#0;class#Test1#0" />
+            <element signature="method#partition#0;class#Test1#0" />
+            <element signature="method#partition2#0;class#Test1#0" />
+            <element signature="method#print#0;class#Test1#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="240" column="5" lean-forward="true" selection-start-line="240" selection-start-column="5" selection-end-line="240" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#pritition2#0;class#Test#0" />
+            <element signature="docComment;method#pritition#0;class#Test#0" />
+            <element signature="method#pritition#0;class#Test#0" />
+            <element signature="method#guibingsort#0;class#Test#0" />
+            <element signature="method#mergeSort#0;class#Test#0" />
+            <element signature="method#merge#0;class#Test#0" />
+            <element signature="method#xuanzesort#0;class#Test#0" />
+            <element signature="method#erfenchazhao#0;class#Test#0" />
+            <element signature="method#print#0;class#Test#0" />
+            <element signature="method#bubblesort#0;class#Test#0" />
+            <element signature="method#zhijiecharukuaipaisort#0;class#Test#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#zhijiecharuSort#0;class#Test1#0" />
+            <element signature="method#mergeSort#0;class#Test1#0" />
+            <element signature="method#mergeSortInternal#0;class#Test1#0" />
+            <element signature="method#mergepar#0;class#Test1#0" />
+            <element signature="docComment;method#quickSortInternal#0;class#Test1#0" />
+            <element signature="method#quickSortInternal#0;class#Test1#0" />
+            <element signature="method#xuanzeSort#0;class#Test1#0" />
+            <element signature="method#partition3#0;class#Test1#0" />
+            <element signature="method#partition#0;class#Test1#0" />
+            <element signature="method#partition2#0;class#Test1#0" />
+            <element signature="method#print#0;class#Test1#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#pritition2#0;class#Test#0" />
+            <element signature="docComment;method#pritition#0;class#Test#0" />
+            <element signature="method#pritition#0;class#Test#0" />
+            <element signature="method#guibingsort#0;class#Test#0" />
+            <element signature="method#mergeSort#0;class#Test#0" />
+            <element signature="method#merge#0;class#Test#0" />
+            <element signature="method#xuanzesort#0;class#Test#0" />
+            <element signature="method#erfenchazhao#0;class#Test#0" />
+            <element signature="method#print#0;class#Test#0" />
+            <element signature="method#bubblesort#0;class#Test#0" />
+            <element signature="method#zhijiecharukuaipaisort#0;class#Test#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#pritition2#0;class#Test#0" />
+            <element signature="docComment;method#pritition#0;class#Test#0" />
+            <element signature="method#pritition#0;class#Test#0" />
+            <element signature="method#guibingsort#0;class#Test#0" />
+            <element signature="method#mergeSort#0;class#Test#0" />
+            <element signature="method#merge#0;class#Test#0" />
+            <element signature="method#xuanzesort#0;class#Test#0" />
+            <element signature="method#erfenchazhao#0;class#Test#0" />
+            <element signature="method#print#0;class#Test#0" />
+            <element signature="method#bubblesort#0;class#Test#0" />
+            <element signature="method#zhijiecharukuaipaisort#0;class#Test#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="267" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#pritition2#0;class#Test#0" />
+            <element signature="docComment;method#pritition#0;class#Test#0" />
+            <element signature="method#pritition#0;class#Test#0" />
+            <element signature="method#guibingsort#0;class#Test#0" />
+            <element signature="method#mergeSort#0;class#Test#0" />
+            <element signature="method#merge#0;class#Test#0" />
+            <element signature="method#xuanzesort#0;class#Test#0" />
+            <element signature="method#erfenchazhao#0;class#Test#0" />
+            <element signature="method#print#0;class#Test#0" />
+            <element signature="method#bubblesort#0;class#Test#0" />
+            <element signature="method#zhijiecharukuaipaisort#0;class#Test#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#pritition2#0;class#Test#0" />
+            <element signature="docComment;method#pritition#0;class#Test#0" />
+            <element signature="method#pritition#0;class#Test#0" />
+            <element signature="method#guibingsort#0;class#Test#0" />
+            <element signature="method#mergeSort#0;class#Test#0" />
+            <element signature="method#merge#0;class#Test#0" />
+            <element signature="method#xuanzesort#0;class#Test#0" />
+            <element signature="method#erfenchazhao#0;class#Test#0" />
+            <element signature="method#print#0;class#Test#0" />
+            <element signature="method#bubblesort#0;class#Test#0" />
+            <element signature="method#zhijiecharukuaipaisort#0;class#Test#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#pritition2#0;class#Test#0" />
+            <element signature="docComment;method#pritition#0;class#Test#0" />
+            <element signature="method#pritition#0;class#Test#0" />
+            <element signature="method#guibingsort#0;class#Test#0" />
+            <element signature="method#mergeSort#0;class#Test#0" />
+            <element signature="method#merge#0;class#Test#0" />
+            <element signature="method#xuanzesort#0;class#Test#0" />
+            <element signature="method#erfenchazhao#0;class#Test#0" />
+            <element signature="method#print#0;class#Test#0" />
+            <element signature="method#bubblesort#0;class#Test#0" />
+            <element signature="method#zhijiecharukuaipaisort#0;class#Test#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#pritition2#0;class#Test#0" />
+            <element signature="docComment;method#pritition#0;class#Test#0" />
+            <element signature="method#pritition#0;class#Test#0" />
+            <element signature="method#guibingsort#0;class#Test#0" />
+            <element signature="method#mergeSort#0;class#Test#0" />
+            <element signature="method#merge#0;class#Test#0" />
+            <element signature="method#xuanzesort#0;class#Test#0" />
+            <element signature="method#erfenchazhao#0;class#Test#0" />
+            <element signature="method#print#0;class#Test#0" />
+            <element signature="method#bubblesort#0;class#Test#0" />
+            <element signature="method#zhijiecharukuaipaisort#0;class#Test#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#pritition2#0;class#Test#0" />
+            <element signature="docComment;method#pritition#0;class#Test#0" />
+            <element signature="method#pritition#0;class#Test#0" />
+            <element signature="method#guibingsort#0;class#Test#0" />
+            <element signature="method#mergeSort#0;class#Test#0" />
+            <element signature="method#merge#0;class#Test#0" />
+            <element signature="method#xuanzesort#0;class#Test#0" />
+            <element signature="method#erfenchazhao#0;class#Test#0" />
+            <element signature="method#print#0;class#Test#0" />
+            <element signature="method#bubblesort#0;class#Test#0" />
+            <element signature="method#zhijiecharukuaipaisort#0;class#Test#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="56" lean-forward="true" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#pritition2#0;class#Test#0" />
+            <element signature="docComment;method#pritition#0;class#Test#0" />
+            <element signature="method#pritition#0;class#Test#0" />
+            <element signature="method#guibingsort#0;class#Test#0" />
+            <element signature="method#mergeSort#0;class#Test#0" />
+            <element signature="method#merge#0;class#Test#0" />
+            <element signature="method#xuanzesort#0;class#Test#0" />
+            <element signature="method#erfenchazhao#0;class#Test#0" />
+            <element signature="method#print#0;class#Test#0" />
+            <element signature="method#bubblesort#0;class#Test#0" />
+            <element signature="method#zhijiecharukuaipaisort#0;class#Test#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#pritition2#0;class#Test#0" />
+            <element signature="docComment;method#pritition#0;class#Test#0" />
+            <element signature="method#pritition#0;class#Test#0" />
+            <element signature="method#guibingsort#0;class#Test#0" />
+            <element signature="method#mergeSort#0;class#Test#0" />
+            <element signature="method#merge#0;class#Test#0" />
+            <element signature="method#xuanzesort#0;class#Test#0" />
+            <element signature="method#erfenchazhao#0;class#Test#0" />
+            <element signature="method#print#0;class#Test#0" />
+            <element signature="method#bubblesort#0;class#Test#0" />
+            <element signature="method#zhijiecharukuaipaisort#0;class#Test#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test1.java" />
+    <entry file="file://$PROJECT_DIR$/src/sort/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#pritition2#0;class#Test#0" />
+            <element signature="docComment;method#pritition#0;class#Test#0" />
+            <element signature="method#pritition#0;class#Test#0" />
+            <element signature="method#guibingsort#0;class#Test#0" />
+            <element signature="method#mergeSort#0;class#Test#0" />
+            <element signature="method#merge#0;class#Test#0" />
+            <element signature="method#xuanzesort#0;class#Test#0" />
+            <element signature="method#erfenchazhao#0;class#Test#0" />
+            <element signature="method#print#0;class#Test#0" />
+            <element signature="method#bubblesort#0;class#Test#0" />
+            <element signature="method#zhijiecharukuaipaisort#0;class#Test#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test1.java" />
+    <entry file="file://$PROJECT_DIR$/src/sort/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1045">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#pritition2#0;class#Test#0" />
+            <element signature="docComment;method#pritition#0;class#Test#0" />
+            <element signature="method#pritition#0;class#Test#0" />
+            <element signature="method#guibingsort#0;class#Test#0" />
+            <element signature="method#mergeSort#0;class#Test#0" />
+            <element signature="method#merge#0;class#Test#0" />
+            <element signature="method#xuanzesort#0;class#Test#0" />
+            <element signature="method#erfenchazhao#0;class#Test#0" />
+            <element signature="method#print#0;class#Test#0" />
+            <element signature="method#bubblesort#0;class#Test#0" />
+            <element signature="method#zhijiecharukuaipaisort#0;class#Test#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2527">
+          <caret line="133" lean-forward="true" selection-start-line="133" selection-end-line="133" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#pritition2#0;class#Test#0" />
+            <element signature="docComment;method#pritition#0;class#Test#0" />
+            <element signature="method#pritition#0;class#Test#0" />
+            <element signature="method#guibingsort#0;class#Test#0" />
+            <element signature="method#mergeSort#0;class#Test#0" />
+            <element signature="method#merge#0;class#Test#0" />
+            <element signature="method#xuanzesort#0;class#Test#0" />
+            <element signature="method#erfenchazhao#0;class#Test#0" />
+            <element signature="method#print#0;class#Test#0" />
+            <element signature="method#bubblesort#0;class#Test#0" />
+            <element signature="method#zhijiecharukuaipaisort#0;class#Test#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#pritition2#0;class#Test#0" />
+            <element signature="docComment;method#pritition#0;class#Test#0" />
+            <element signature="method#pritition#0;class#Test#0" />
+            <element signature="method#guibingsort#0;class#Test#0" />
+            <element signature="method#mergeSort#0;class#Test#0" />
+            <element signature="method#merge#0;class#Test#0" />
+            <element signature="method#xuanzesort#0;class#Test#0" />
+            <element signature="method#erfenchazhao#0;class#Test#0" />
+            <element signature="method#print#0;class#Test#0" />
+            <element signature="method#bubblesort#0;class#Test#0" />
+            <element signature="method#zhijiecharukuaipaisort#0;class#Test#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#pritition2#0;class#Test#0" />
+            <element signature="docComment;method#pritition#0;class#Test#0" />
+            <element signature="method#pritition#0;class#Test#0" />
+            <element signature="method#guibingsort#0;class#Test#0" />
+            <element signature="method#mergeSort#0;class#Test#0" />
+            <element signature="method#merge#0;class#Test#0" />
+            <element signature="method#xuanzesort#0;class#Test#0" />
+            <element signature="method#erfenchazhao#0;class#Test#0" />
+            <element signature="method#print#0;class#Test#0" />
+            <element signature="method#bubblesort#0;class#Test#0" />
+            <element signature="method#zhijiecharukuaipaisort#0;class#Test#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/qq/qq缓存/1519284436/FileRecv/3.10排序笔记.java" />
+    <entry file="file://$PROJECT_DIR$/src/Test1.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="531" selection-start-line="531" selection-end-line="531" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="772" selection-start-line="772" selection-end-line="772" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/package-info.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-200">
+          <caret line="675" column="22" selection-start-line="675" selection-start-column="22" selection-end-line="675" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Test2.java" />
+    <entry file="file://$PROJECT_DIR$/src/sort/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1444">
+          <caret line="181" column="30" selection-start-line="181" selection-start-column="30" selection-end-line="181" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#pritition2#0;class#Test#0" />
+            <element signature="docComment;method#pritition#0;class#Test#0" />
+            <element signature="method#pritition#0;class#Test#0" />
+            <element signature="method#guibingsort#0;class#Test#0" />
+            <element signature="method#mergeSort#0;class#Test#0" />
+            <element signature="method#merge#0;class#Test#0" />
+            <element signature="method#xuanzesort#0;class#Test#0" />
+            <element signature="method#erfenchazhao#0;class#Test#0" />
+            <element signature="method#print#0;class#Test#0" />
+            <element signature="method#bubblesort#0;class#Test#0" />
+            <element signature="method#zhijiecharukuaipaisort#0;class#Test#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="109" column="57" selection-start-line="109" selection-start-column="57" selection-end-line="109" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#zhijiecharuSort#0;class#Test1#0" />
+            <element signature="method#mergeSort#0;class#Test1#0" />
+            <element signature="method#mergeSortInternal#0;class#Test1#0" />
+            <element signature="method#mergepar#0;class#Test1#0" />
+            <element signature="docComment;method#quickSortInternal#0;class#Test1#0" />
+            <element signature="method#quickSortInternal#0;class#Test1#0" />
+            <element signature="method#xuanzeSort#0;class#Test1#0" />
+            <element signature="method#partition3#0;class#Test1#0" />
+            <element signature="method#partition#0;class#Test1#0" />
+            <element signature="method#partition2#0;class#Test1#0" />
+            <element signature="method#print#0;class#Test1#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
